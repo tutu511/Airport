@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AirPort</string>
+
+    <string name="nav_flight_title">航班</string>
+    <string name="nav_rate_title">匯率</string>
+
+    <string name="tab_flight_departure">起飛班機</string>
+    <string name="tab_flight_arrival">抵達班機</string>
+
+    <string name="edit_flight_hint">請輸入航空公司IATA國際代碼</string>
+
+    <string name="tv_flight_hint">請在上方輸入航班資訊\n默認預先加載 TPE\n【航空公司IATA國際代碼】</string>
+</resources>
